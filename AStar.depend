@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606340245 source:d:\astar\astar\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<vector>
+	<Windows.h>
+	<chrono>
+
